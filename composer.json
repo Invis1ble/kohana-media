@@ -1,0 +1,22 @@
+{
+    "name":        "Invis1ble/kohana-media",
+    "type":        "kohana-module",
+    "description": "A Media module for Kohana",
+    "license":     "MIT",
+    "keywords":    ["kohana", "media", "http", "cache"],
+    "authors": [
+        {
+            "name": "Max Invis1ble",
+            "role": "developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/Invis1ble/kohana-media/issues",
+        "source": "https://github.com/Invis1ble/kohana-media"
+    },
+    "require": {
+        "composer/installers": "~1.0",
+        "kohana/core":         ">=3.3",
+        "php":                 ">=5.3.3"
+    }
+}
